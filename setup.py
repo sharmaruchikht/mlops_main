@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='Its a wafer project using mlops.',
-    author='cr7siu',
+    author='sharmaruchikht',
     license='MIT',
 )
